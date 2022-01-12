@@ -1,6 +1,6 @@
 # TimeZone-Sales-Analysis 
 
-##Main Task: 
+Main Task: 
 - Obtain information about the product sales of the various retailer types in UTC offset. 
 Display the average amount of sales that occurred in each time zone.
 
